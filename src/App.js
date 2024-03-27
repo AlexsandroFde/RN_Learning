@@ -12,8 +12,8 @@ import Pai from "./components/direta/Pai"
 
 export default () => (
     <View style={style.App}>
-        <Pai/>
-        {/*<Contador inicial={110} passo={10}/>
+        <Contador inicial={110} passo={10}/>
+        {/*<Pai/>
         <Botao/>
         <Titulo principal="Cadastro Produto" secundario="Tela de Cadastro do Produto"/>
         <MinMax min={3} max={20}/>
